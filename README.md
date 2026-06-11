@@ -12,10 +12,9 @@ Founder of **[Atelier Gökhan](https://gokhan.vc)** — an agent accelerator stu
 
 **Working across**
 
-- **Compute** — autonomous agents & frameworks ([aeon](https://github.com/avalidurl/aeon)), the x402 machine-to-machine economy.
+- **Compute** — autonomous agents and the rails they ride: the x402 machine-to-machine economy, on Base.
 - **Finance** — onchain & prediction markets, the Base agent economy ([market-cap-tracker](https://github.com/avalidurl/market-cap-tracker) · [sp100](https://github.com/avalidurl/sp100-financial-tracker)).
 - **Arts & culture** — accelerationism, hyperstition, the speculative and the art-coded ([gokhan-memex](https://github.com/avalidurl/gokhan-memex)).
-- **Tools** — AI coding sessions → Obsidian ([obsidian-aisync](https://github.com/avalidurl/obsidian-aisync)).
 
 **Elsewhere** — [gokhanturhan.com](https://gokhanturhan.com) · [X @goekhan](https://x.com/goekhan) · [Telegram @goekhanturhan](https://t.me/goekhanturhan)
 
