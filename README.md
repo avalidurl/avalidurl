@@ -35,7 +35,6 @@ I build **autonomous agents and the rails they ride** — and the products those
 - **[market-cap-tracker](https://github.com/avalidurl/market-cap-tracker)** — real-time NVIDIA vs. crypto market-cap tracker.
 - **[sp100-financial-tracker](https://github.com/avalidurl/sp100-financial-tracker)** — ultra-lightweight S&P 100 tracker with real-time data.
 - **[gokhan-memex](https://github.com/avalidurl/gokhan-memex)** — a digital garden / memex for finance, art, and technology.
-- **[skills](https://github.com/gokhan-vc/skills)** — Bankr Skills: plug-and-play tools for building more powerful agents.
 
 ---
 
