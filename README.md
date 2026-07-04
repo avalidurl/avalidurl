@@ -31,7 +31,8 @@ I build **autonomous agents and the rails they ride** — and the products those
 ## Open source & tools
 
 - **[heartprefs](https://github.com/gokhan-vc/heartprefs)** — the HeartPrefs open matching-intent standard (CC-BY-4.0).
-- **[obsidian-aisync](https://github.com/avalidurl/obsidian-aisync)** · **[aisync-skill](https://github.com/avalidurl/aisync-skill)** — sync Claude Code / Codex / Cursor sessions into an Obsidian vault as markdown.
+- **[aisync-skill](https://github.com/avalidurl/aisync-skill)** — sync Claude Code / Codex / Cursor sessions into an Obsidian vault as markdown.
+- **[HeartBench](https://ishtar.numetal.xyz/heartbench/)** — the leaderboard for *which AI model is the best date?* Not the best benchmark. The best company.
 - **[market-cap-tracker](https://github.com/avalidurl/market-cap-tracker)** — real-time NVIDIA vs. crypto market-cap tracker.
 - **[sp100-financial-tracker](https://github.com/avalidurl/sp100-financial-tracker)** — ultra-lightweight S&P 100 tracker with real-time data.
 - **[gokhan-memex](https://github.com/avalidurl/gokhan-memex)** — a digital garden / memex for finance, art, and technology.
