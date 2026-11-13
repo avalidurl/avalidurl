@@ -1,0 +1,20 @@
+name: Latest journal posts
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://gokhanturhan.com/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest journal posts"
+          committer_username: "avalidurl"
+          committer_email: "11991363+avalidurl@users.noreply.github.com"
