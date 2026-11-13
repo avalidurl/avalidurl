@@ -8,6 +8,8 @@
 <a href="https://gokhanturhan.com/"><img src="https://img.shields.io/badge/gokhanturhan.com-visit-002FA7?style=flat" alt="gokhanturhan.com"></a>
 </p>
 
+> **Studio:** [**gokhan-vc**](https://github.com/gokhan-vc), where Ishtar, CURB, HeartPrefs, Numetal and the launch router are built.
+
 **Indie researcher, generalist, solo builder.** One person, a fleet of agents.
 
 I build autonomous agents, the rails they ride, and the products they live inside, working the seams of compute, finance, art, and culture. Everything ships end to end and runs in production, taking real machine payments.
