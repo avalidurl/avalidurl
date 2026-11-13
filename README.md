@@ -18,12 +18,12 @@ I build autonomous agents, the rails they ride, and the products they live insid
 
 ### Latest from the journal
 
-<!-- BLOG-POST-LIST:START -->- [Complementary Substitutions](https://gokhanturhan.com/journal/complementary-substitutions/)
+<!-- BLOG-POST-LIST:START -->
+- [Complementary Substitutions](https://gokhanturhan.com/journal/complementary-substitutions/)
 - [The Model That Dreams Itself](https://gokhanturhan.com/journal/the-model-that-dreams-itself/)
 - [The x402 economy — July 2026](https://gokhanturhan.com/journal/x402-economy-july-2026/)
 - [tickerline: your conversation, quoted](https://gokhanturhan.com/journal/tickerline-your-conversation-quoted/)
-- [CURB is live](https://gokhanturhan.com/journal/curb-is-live/)
-<!-- BLOG-POST-LIST:END -->
+- [CURB is live](https://gokhanturhan.com/journal/curb-is-live/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
