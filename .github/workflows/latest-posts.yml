@@ -14,7 +14,7 @@ jobs:
         with:
           feed_list: "https://gokhanturhan.com/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Update latest journal posts"
           committer_username: "avalidurl"
           committer_email: "11991363+avalidurl@users.noreply.github.com"
