@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [Complementary Substitutions](https://gokhanturhan.com/journal/complementary-substitutions/)
-- [The Model That Dreams Itself](https://gokhanturhan.com/journal/the-model-that-dreams-itself/)
-- [The x402 economy — July 2026](https://gokhanturhan.com/journal/x402-economy-july-2026/)
-- [tickerline: your conversation, quoted](https://gokhanturhan.com/journal/tickerline-your-conversation-quoted/)
-- [CURB is live](https://gokhanturhan.com/journal/curb-is-live/)<!-- BLOG-POST-LIST:END -->
+- [agentic community notes caves similar to incident&#39;s agent-sp…](https://blyg.gokhanturhan.com/t/36d0ptxahmz9msjsh4ye0ws23e/)
+- [Swarms will be obsolete under a few years, too](https://gokhanturhan.com/journal/swarms-will-be-obsolete/)
+- [agentic community notes caves](https://gokhanturhan.com/journal/agentic-community-notes-caves/)
+- [Swarms will be obsolete under a few years, too, in that it w…](https://blyg.gokhanturhan.com/t/4dw6zd81drr19jwdxbgq4r8eqx/)
+- [Complementary Substitutions](https://gokhanturhan.com/journal/complementary-substitutions/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
