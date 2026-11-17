@@ -17,4 +17,4 @@ jobs:
           template: "$newline- [$title]($url)"
           commit_message: "Update latest journal posts"
           committer_username: "avalidurl"
-          committer_email: "11991363+avalidurl@users.noreply.github.com"
+          committer_email: "contact@gokhan.vc"
