@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [Try to read the following Bostrom musing, that is, &amp;quot;[n]evert…](https://blyg.gokhanturhan.com/t/1egk40q35exa090h7qcd4n198y/)
-- [Item #: SCP-NYT Object Class: Uncontained Special Containmen…](https://blyg.gokhanturhan.com/t/5p33gved3b1kv7mqygmhjk72q4/)
-- [Majority of document-like explanatory blogposts are not mean…](https://blyg.gokhanturhan.com/t/5p22kv0mgjvfsnybbfcteqkmbr/)
-- [Aren&#39;t open weights a peculiarly spiky world model, consider…](https://blyg.gokhanturhan.com/f/6wt863mdxsbya6wcgg9kvhb9rj/)
-- [agentic community notes caves similar to incident&#39;s agent-sp…](https://blyg.gokhanturhan.com/t/36d0ptxahmz9msjsh4ye0ws23e/)<!-- BLOG-POST-LIST:END -->
+- [i am against signatures, statements that eat signatures, man…](https://blyg.gokhanturhan.com/f/7zs57nkn8v9w96nk3140k8wdvx/)
+- [re Nagel &amp;quot;thoughts&amp;quot; never tries to gaze into the publicly av…](https://blyg.gokhanturhan.com/f/4nvk2gk6q4gjz5dkm2nkx7am9t/)
+- [if you feel like blocked, or applying self-censorship, it&#39;s…](https://blyg.gokhanturhan.com/t/1fv4s218vrcyf9fdese1eyzmvb/)
+- [Sitcom doomerism and the base under it](https://gokhanturhan.com/journal/undefined/)
+- [The &amp;quot;average normie&amp;quot;, or white caller, or a &amp;quot;bit extra&amp;quot; k12…](https://blyg.gokhanturhan.com/t/7qtnfbk00fq49htqw3cv41g50b/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
