@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
+- [The &amp;quot;average normie&amp;quot;, or white collar, or a &amp;quot;bit extra&amp;quot; k12…](https://blyg.gokhanturhan.com/t/7qtnfbk00fq49htqw3cv41g50b/)
 - [i am against signatures, statements that eat signatures, man…](https://blyg.gokhanturhan.com/f/7zs57nkn8v9w96nk3140k8wdvx/)
 - [re Nagel &amp;quot;thoughts&amp;quot; never tries to gaze into the publicly av…](https://blyg.gokhanturhan.com/f/4nvk2gk6q4gjz5dkm2nkx7am9t/)
 - [if you feel like blocked, or applying self-censorship, it&#39;s…](https://blyg.gokhanturhan.com/t/1fv4s218vrcyf9fdese1eyzmvb/)
-- [Sitcom doomerism and the base under it](https://gokhanturhan.com/journal/undefined/)
-- [The &amp;quot;average normie&amp;quot;, or white caller, or a &amp;quot;bit extra&amp;quot; k12…](https://blyg.gokhanturhan.com/t/7qtnfbk00fq49htqw3cv41g50b/)<!-- BLOG-POST-LIST:END -->
+- [Sitcom doomerism and the base under it](https://gokhanturhan.com/journal/undefined/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
