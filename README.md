@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
+- [embedding 4chan into x was the greatest lesswrong ever](https://blyg.gokhanturhan.com/t/61q4b0e18c93wgg3kyx8g3sgez/)
+- [if you are running a Telegram channel, group chat or their D…](https://blyg.gokhanturhan.com/t/3yckdnvxgfy0nwe228e45h2fn8/)
+- [levent alpöge &amp;gt; terence tao](https://blyg.gokhanturhan.com/t/07sbq1y41pgdg063w28y8hj1de/)
 - [The &amp;quot;average normie&amp;quot;, or white collar, or a &amp;quot;bit extra&amp;quot; k12…](https://blyg.gokhanturhan.com/t/7qtnfbk00fq49htqw3cv41g50b/)
-- [i am against signatures, statements that eat signatures, man…](https://blyg.gokhanturhan.com/f/7zs57nkn8v9w96nk3140k8wdvx/)
-- [re Nagel &amp;quot;thoughts&amp;quot; never tries to gaze into the publicly av…](https://blyg.gokhanturhan.com/f/4nvk2gk6q4gjz5dkm2nkx7am9t/)
-- [if you feel like blocked, or applying self-censorship, it&#39;s…](https://blyg.gokhanturhan.com/t/1fv4s218vrcyf9fdese1eyzmvb/)
-- [Sitcom doomerism and the base under it](https://gokhanturhan.com/journal/undefined/)<!-- BLOG-POST-LIST:END -->
+- [i am against signatures, statements that eat signatures, man…](https://blyg.gokhanturhan.com/f/7zs57nkn8v9w96nk3140k8wdvx/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
