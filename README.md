@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [some mathematicians are consenquentalist enough to find a cr…](https://blyg.gokhanturhan.com/t/07pt7gt56n1xttcg60hasnpbcf/)
-- [embedding 4chan into x was the greatest lesswrong ever](https://blyg.gokhanturhan.com/t/61q4b0e18c93wgg3kyx8g3sgez/)
-- [if you are running a Telegram channel, group chat or their D…](https://blyg.gokhanturhan.com/t/3yckdnvxgfy0nwe228e45h2fn8/)
-- [levent alpöge &amp;gt; terence tao](https://blyg.gokhanturhan.com/t/07sbq1y41pgdg063w28y8hj1de/)
-- [The &amp;quot;average normie&amp;quot;, or white collar, or a &amp;quot;bit extra&amp;quot; k12…](https://blyg.gokhanturhan.com/t/7qtnfbk00fq49htqw3cv41g50b/)<!-- BLOG-POST-LIST:END -->
+- [i am excited about local models as long as i own a few low e…](https://blyg.gokhanturhan.com/t/2e2hsd4rw0k40syfqbc7k3xc4q/)
+- [LinkedIn need more Community Notes tooling than vanilla Pang…](https://blyg.gokhanturhan.com/t/6ea6msr2wygpf3j0n44btkqw35/)
+- [semantically distant sentiences](https://blyg.gokhanturhan.com/t/7ch6c3sjvqnmsxmtvnps5m67er/)
+- [I wonder if there is any &amp;quot;end of society&amp;quot; elaboration you th…](https://blyg.gokhanturhan.com/t/0s5rwcbb842hg0x8pyq51171np/)
+- [Seeing my post being stubbed, only via Cloudflare observator…](https://blyg.gokhanturhan.com/t/52g3sa7rax7e5ma4k8qm853xqp/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
