@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
+- [one of the best things either a single agent or a swarm ther…](https://blyg.gokhanturhan.com/t/0z98qt0j08rtqss8eztsdx1qrx/)
+- [comparing cities is astrology for market makers](https://blyg.gokhanturhan.com/t/4fwhs6sbz3ak21ez9ex6w66nbf/)
+- [how i use xDev, Grok Bot, Grok and xSI 1 Some of you have pr…](https://blyg.gokhanturhan.com/t/51rrt9zqpn0qf1h86p4k4dksph/)
 - [i am excited about local models as long as i own a few low e…](https://blyg.gokhanturhan.com/t/2e2hsd4rw0k40syfqbc7k3xc4q/)
-- [LinkedIn need more Community Notes tooling than vanilla Pang…](https://blyg.gokhanturhan.com/t/6ea6msr2wygpf3j0n44btkqw35/)
-- [semantically distant sentiences](https://blyg.gokhanturhan.com/t/7ch6c3sjvqnmsxmtvnps5m67er/)
-- [I wonder if there is any &amp;quot;end of society&amp;quot; elaboration you th…](https://blyg.gokhanturhan.com/t/0s5rwcbb842hg0x8pyq51171np/)
-- [Seeing my post being stubbed, only via Cloudflare observator…](https://blyg.gokhanturhan.com/t/52g3sa7rax7e5ma4k8qm853xqp/)<!-- BLOG-POST-LIST:END -->
+- [LinkedIn need more Community Notes tooling than vanilla Pang…](https://blyg.gokhanturhan.com/t/6ea6msr2wygpf3j0n44btkqw35/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
