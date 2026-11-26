@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [You can both want Jensen back as an Emperor and admire Anthr…](https://blyg.gokhanturhan.com/t/0z94f1nrp3a5xktfx7kkgtewqe/)
-- [we need talk about visceral pseudo-reactionaries&#39; stupidity…](https://blyg.gokhanturhan.com/t/3p2771m7eh1q6tbccsqa92t8z0/)
-- [one of the best things either a single agent or a swarm ther…](https://blyg.gokhanturhan.com/t/0z98qt0j08rtqss8eztsdx1qrx/)
-- [comparing cities is astrology for market makers](https://blyg.gokhanturhan.com/t/4fwhs6sbz3ak21ez9ex6w66nbf/)
-- [how i use xDev, Grok Bot, Grok and xSI 1 Some of you have pr…](https://blyg.gokhanturhan.com/t/51rrt9zqpn0qf1h86p4k4dksph/)<!-- BLOG-POST-LIST:END -->
+- [One of the reasons I &amp;quot;started&amp;quot; to listen to less music this…](https://blyg.gokhanturhan.com/t/6hcb2ekwvcnqez7kj5hrq67d8c/)
+- [If it were 800 AD, by a pure analogy here, no kings would al…](https://blyg.gokhanturhan.com/t/032b8dfmvpyemrjkpfnydav9g3/)
+- [You can convince a swarm of agents that each transaction on…](https://blyg.gokhanturhan.com/t/6pywbswtepjgbh8mw7yfktr36j/)
+- [Neuralese turns the Latin alphabet into a logographic system…](https://blyg.gokhanturhan.com/t/1htgkzbkdby3zkdrrkr2fvafyf/)
+- [There is no civilizational collapse. It&#39;s all pre-training.](https://blyg.gokhanturhan.com/t/276jshddrce51mfet6kzg40xv1/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
