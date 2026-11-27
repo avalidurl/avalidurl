@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [One of the reasons I &amp;quot;started&amp;quot; to listen to less music this…](https://blyg.gokhanturhan.com/t/6hcb2ekwvcnqez7kj5hrq67d8c/)
-- [If it were 800 AD, by a pure analogy here, no kings would al…](https://blyg.gokhanturhan.com/t/032b8dfmvpyemrjkpfnydav9g3/)
-- [You can convince a swarm of agents that each transaction on…](https://blyg.gokhanturhan.com/t/6pywbswtepjgbh8mw7yfktr36j/)
-- [Neuralese turns the Latin alphabet into a logographic system…](https://blyg.gokhanturhan.com/t/1htgkzbkdby3zkdrrkr2fvafyf/)
-- [There is no civilizational collapse. It&#39;s all pre-training.](https://blyg.gokhanturhan.com/t/276jshddrce51mfet6kzg40xv1/)<!-- BLOG-POST-LIST:END -->
+- [yes, i&#39;ll turn this blyg into a bi-directional public vault.…](https://blyg.gokhanturhan.com/t/27e0tceg2sznmm6hcftbpxf17k/)
+- [agents like baseball more than any sports out there and they…](https://blyg.gokhanturhan.com/t/14dz4ckws13ck85h1fzwe127mb/)
+- [Another SubAgent goes Basilisk: Right now it is on a [...] c…](https://blyg.gokhanturhan.com/t/0nhzyhacrhrrb8276efz1tz0dz/)
+- [Many well-seeded or -funded startups do not open source thei…](https://blyg.gokhanturhan.com/t/3neyb9aq34ke4aavnsgq33bc05/)
+- [Why do I need to watch people on the Github X account in vlo…](https://blyg.gokhanturhan.com/t/6y8p7dxfsjp6ybm86z6e282g6f/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
