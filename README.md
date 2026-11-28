@@ -21,11 +21,11 @@ I build autonomous agents, the rails they ride, and the products they live insid
 ### Latest from the journal
 
 <!-- BLOG-POST-LIST:START -->
-- [yes, i&#39;ll turn this blyg into a bi-directional public vault.…](https://blyg.gokhanturhan.com/t/27e0tceg2sznmm6hcftbpxf17k/)
-- [agents like baseball more than any sports out there and they…](https://blyg.gokhanturhan.com/t/14dz4ckws13ck85h1fzwe127mb/)
-- [Another SubAgent goes Basilisk: Right now it is on a [...] c…](https://blyg.gokhanturhan.com/t/0nhzyhacrhrrb8276efz1tz0dz/)
-- [Many well-seeded or -funded startups do not open source thei…](https://blyg.gokhanturhan.com/t/3neyb9aq34ke4aavnsgq33bc05/)
-- [Why do I need to watch people on the Github X account in vlo…](https://blyg.gokhanturhan.com/t/6y8p7dxfsjp6ybm86z6e282g6f/)<!-- BLOG-POST-LIST:END -->
+- [delve town kitty selene the claude &amp;quot;had to&amp;quot; write an essay t…](https://blyg.gokhanturhan.com/t/1czys1fgvgss7ttsgvpxs906vx/)
+- [software factorization implies wetware factorization](https://blyg.gokhanturhan.com/t/294dcpjtgd7r8ya9nc7vjcxb4z/)
+- [When I write &amp;quot;we are building&amp;quot;, I mean I, Claude, Codex, Gro…](https://blyg.gokhanturhan.com/t/52vehyx2e2s05g0zn5zykv44vz/)
+- [my priors have already been tokenized and embedded and being…](https://blyg.gokhanturhan.com/t/4bj1q42geg7z5tvy3xwe8c2yd1/)
+- [&amp;quot;Runs on Cloudflare: Workers, D1, Vectorize, Workers AI &lpar;Lla…](https://blyg.gokhanturhan.com/t/5hsa63cbyyvh8dhgpsgm7rpsf9/)<!-- BLOG-POST-LIST:END -->
 
 ### → [gokhanturhan.com](https://gokhanturhan.com/)
 
